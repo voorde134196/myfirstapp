@@ -1,0 +1,29 @@
+# 1. Welke componenten heeft de app nodig?
+Simpelweg kijkend naar onze lay-out van de pagina:
+* App
+* SearchBar
+* Results
+* Playlist
+* ResultsVideo
+* PlaylistVideo
+
+Met speciale componenten:
+* Video
+* VideoList
+
+Wij maken gebruik van youtube, waarbij we playlists maken van videos in tegenstelling tot jammming, die gebruik maakt van muziekbestanden.
+
+Om het makkelijk te houden en overzichtelijk ben ik bij de volgende benamingen gekomen:
+* App
+* SearchBar
+* SearchResultVideos
+* PlayListVideos
+* SearchResultVideoList
+* PlayListVideoList
+* SearchResultVideo
+* PlayListVideo
+
+En voor de speciale componenten voor SearchResultVideos en PlayListVideo respectievelijk: 
+* Videos
+* Video
+
